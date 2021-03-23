@@ -1,0 +1,13 @@
+Title
+winix
+最后更新：%%mtime(%Y-%m-%d %H:%M:%S)
+
+%! Target  : html
+%! Encoding: UTF-8
+%! Options : --toc --toc-level=2 --enum-title
+
+= title1 =
+
+
+--------------------
+  | Powered by [txt2tags http://txt2tags.sourceforge.net/] ([源文件 %%infile])
