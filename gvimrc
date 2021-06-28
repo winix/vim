@@ -1,6 +1,6 @@
 set clipboard=unnamed
 set macligatures
-set guifont=Fira\ Code:h12
+set guifont=FiraCode\ Nerd\ Font\ Mono:h12
 set guioptions-=T
 set guioptions-=r
 set guioptions-=R
